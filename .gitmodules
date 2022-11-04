@@ -1,0 +1,3 @@
+[submodule "BlankNGL"]
+	path = BlankNGL
+	url = git@github.com:/NCCA/BlankNGL
