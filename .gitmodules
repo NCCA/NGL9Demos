@@ -1,3 +1,141 @@
 [submodule "BlankNGL"]
 	path = BlankNGL
 	url = git@github.com:/NCCA/BlankNGL
+[submodule "AdvancedGameKeyControl"]
+	path = AdvancedGameKeyControl
+	url = git@github.com:/NCCA/AdvancedGameKeyControl
+[submodule "AffineTransforms"]
+	path = AffineTransforms
+	url = git@github.com:/NCCA/AffineTransforms
+[submodule "AnimatedTextures"]
+	path = AnimatedTextures
+	url = git@github.com:/NCCA/AnimatedTextures
+[submodule "Box2D"]
+	path = Box2D
+	url = git@github.com:/NCCA/Box2D
+[submodule "BulletNGL"]
+	path = BulletNGL
+	url = git@github.com:/NCCA/BulletNGL
+[submodule "BulletTower"]
+	path = BulletTower
+	url = git@github.com:/NCCA/BulletTower
+[submodule "Camera"]
+	path = Camera
+	url = git@github.com:/NCCA/Camera
+[submodule "Collisions"]
+	path = Collisions
+	url = git@github.com:/NCCA/Collisions
+[submodule "ColourSelection"]
+	path = ColourSelection
+	url = git@github.com:/NCCA/ColourSelection
+[submodule "CurveDemos"]
+	path = CurveDemos
+	url = git@github.com:/NCCA/CurveDemos
+[submodule "EmbedPython"]
+	path = EmbedPython
+	url = git@github.com:/NCCA/EmbedPython
+[submodule "FBODemos"]
+	path = FBODemos
+	url = git@github.com:/NCCA/FBODemos
+[submodule "FacialAnimation"]
+	path = FacialAnimation
+	url = git@github.com:/NCCA/FacialAnimation
+[submodule "GLFWNGL"]
+	path = GLFWNGL
+	url = git@github.com:/NCCA/GLFWNGL
+[submodule "GameKeyControl"]
+	path = GameKeyControl
+	url = git@github.com:/NCCA/GameKeyControl
+[submodule "GeometryShaders"]
+	path = GeometryShaders
+	url = git@github.com:/NCCA/GeometryShaders
+[submodule "GridVis"]
+	path = GridVis
+	url = git@github.com:/NCCA/GridVis
+[submodule "ImageHeightMap"]
+	path = ImageHeightMap
+	url = git@github.com:/NCCA/ImageHeightMap
+[submodule "Instancing"]
+	path = Instancing
+	url = git@github.com:/NCCA/Instancing
+[submodule "Interpolation"]
+	path = Interpolation
+	url = git@github.com:/NCCA/Interpolation
+[submodule "KleinBottle"]
+	path = KleinBottle
+	url = git@github.com:/NCCA/KleinBottle
+[submodule "Lights"]
+	path = Lights
+	url = git@github.com:/NCCA/Lights
+[submodule "LookAtDemos"]
+	path = LookAtDemos
+	url = git@github.com:/NCCA/LookAtDemos
+[submodule "MassSpring"]
+	path = MassSpring
+	url = git@github.com:/NCCA/MassSpring
+[submodule "MatrixStack"]
+	path = MatrixStack
+	url = git@github.com:/NCCA/MatrixStack
+[submodule "MorphObj"]
+	path = MorphObj
+	url = git@github.com:/NCCA/MorphObj
+[submodule "MorphObjTBO"]
+	path = MorphObjTBO
+	url = git@github.com:/NCCA/MorphObjTBO
+[submodule "NormalMapping"]
+	path = NormalMapping
+	url = git@github.com:/NCCA/NormalMapping
+[submodule "ObjDemo"]
+	path = ObjDemo
+	url = git@github.com:/NCCA/ObjDemo
+[submodule "OctreeAbstract"]
+	path = OctreeAbstract
+	url = git@github.com:/NCCA/OctreeAbstract
+[submodule "PBR"]
+	path = PBR
+	url = git@github.com:/NCCA/PBR
+[submodule "ParticleFactory"]
+	path = ParticleFactory
+	url = git@github.com:/NCCA/ParticleFactory
+[submodule "PointBake"]
+	path = PointBake
+	url = git@github.com:/NCCA/PointBake
+[submodule "QtNGL"]
+	path = QtNGL
+	url = git@github.com:/NCCA/QtNGL
+[submodule "QuatSlerp"]
+	path = QuatSlerp
+	url = git@github.com:/NCCA/QuatSlerp
+[submodule "RVO2NGL"]
+	path = RVO2NGL
+	url = git@github.com:/NCCA/RVO2NGL
+[submodule "SDLJoyPad"]
+	path = SDLJoyPad
+	url = git@github.com:/NCCA/SDLJoyPad
+[submodule "SDLNGL"]
+	path = SDLNGL
+	url = git@github.com:/NCCA/SDLNGL
+[submodule "ShadingModels"]
+	path = ShadingModels
+	url = git@github.com:/NCCA/ShadingModels
+[submodule "SimpleNGL"]
+	path = SimpleNGL
+	url = git@github.com:/NCCA/SimpleNGL
+[submodule "Sponza"]
+	path = Sponza
+	url = git@github.com:/NCCA/Sponza
+[submodule "TessellationShader"]
+	path = TessellationShader
+	url = git@github.com:/NCCA/TessellationShader
+[submodule "TexelFetch"]
+	path = TexelFetch
+	url = git@github.com:/NCCA/TexelFetch
+[submodule "Textures"]
+	path = Textures
+	url = git@github.com:/NCCA/Textures
+[submodule "VAOPrimitives"]
+	path = VAOPrimitives
+	url = git@github.com:/NCCA/VAOPrimitives
+[submodule "VertexArrayObject"]
+	path = VertexArrayObject
+	url = git@github.com:/NCCA/VertexArrayObject
