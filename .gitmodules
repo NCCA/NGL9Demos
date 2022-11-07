@@ -142,3 +142,12 @@
 [submodule "Box2DExport"]
 	path = Box2DExport
 	url = git@github.com:/NCCA/Box2DExport
+[submodule "RayMarching"]
+	path = RayMarching
+	url = git@github.com:/NCCA/RayMarching
+[submodule "AssetImportDemos"]
+	path = AssetImportDemos
+	url = git@github.com:/NCCA/AssetImportDemos
+[submodule "LoadShaderFromJSon"]
+	path = LoadShaderFromJSon
+	url = git@github.com:NCCA/LoadShaderFromJSon.git
