@@ -151,3 +151,15 @@
 [submodule "LoadShaderFromJSon"]
 	path = LoadShaderFromJSon
 	url = git@github.com:NCCA/LoadShaderFromJSon.git
+[submodule "FirstPersonCamera"]
+	path = FirstPersonCamera
+	url = git@github.com:NCCA/FirstPersonCamera
+[submodule "BlankNGLSDL"]
+	path = BlankNGLSDL
+	url = git@github.com:NCCA/BlankNGLSDL
+[submodule "ImageMaze"]
+	path = ImageMaze
+	url = git@github.com:NCCA/ImageMaze
+[submodule "ViewToWorldTransform"]
+	path = ViewToWorldTransform
+	url = git@github.com:NCCA/ViewToWorldTransform
