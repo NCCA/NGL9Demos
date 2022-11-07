@@ -139,3 +139,6 @@
 [submodule "VertexArrayObject"]
 	path = VertexArrayObject
 	url = git@github.com:/NCCA/VertexArrayObject
+[submodule "Box2DExport"]
+	path = Box2DExport
+	url = git@github.com:/NCCA/Box2DExport
