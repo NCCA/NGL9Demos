@@ -163,3 +163,15 @@
 [submodule "ViewToWorldTransform"]
 	path = ViewToWorldTransform
 	url = git@github.com:NCCA/ViewToWorldTransform
+[submodule "MatrixStackTemplated"]
+	path = MatrixStackTemplated
+	url = git@github.com:NCCA/MatrixStackTemplated
+[submodule "PointCloud"]
+	path = PointCloud
+	url = git@github.com:NCCA/PointCloud
+[submodule "ColourObj"]
+	path = ColourObj
+	url = git@github.com:NCCA/ColourObj
+[submodule "TextureCompressor"]
+	path = TextureCompressor
+	url = git@github.com:NCCA/TextureCompressor
