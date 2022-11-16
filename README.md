@@ -18,6 +18,9 @@ For Mac and Linux use
 ./vcpkg install SDL2-ttf
 ./vcpkg install SDL2-image
 ./vcpkg install assimp
+./vcpkg install libsquish
+./vcpkg install cxxopts
+
 ```
 
 For windows we need to add the correct triplet 
@@ -30,10 +33,32 @@ For windows we need to add the correct triplet
 ./vcpkg install SDL2-ttf:x64-windows
 ./vcpkg install SDL2-image:x64-windows
 ./vcpkg install assimp:x64-windows
+./vcpkg install libsquish:x64-windows
+./vcpkg install cxxopts:x64-windows
+
 ```
 
+Note that all of these are installed and in the correct paths in the NCCA lab build so you don't need to worry.
 
 
+## Building
 
+There are a lot of folders / demos to build as part of this system so I suggest using [Ninja](https://ninja-build.org/) It is usually installed as part of the vcpkg and Visual Studio install so should already be part of the toolchain installed.
 
+In the project folder do the following
+```
+cd NGL9Demos
+mkdir build
+cd build 
+cmake -G Ninja ..
+cmake --build .
+
+```
+
+## Updating
+
+If new demos are added or there are bug fixes we can update using.
+
+```
+git submodule update --recursive --remote
 ```
